@@ -67,7 +67,10 @@ body {
     display: flex;
     width: 100%;
 }
-
+.left-image{
+    width: 350px;
+    height: 400px;
+}
 .div-left {
     width: 200px;
     margin-left: 150px;
